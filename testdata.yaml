@@ -1,0 +1,10 @@
+address: https://test-stand.gb.ru/login
+#driver_path: chromedriver-win64/chromedriver.exe
+browser: chrome
+sleep_time: 1
+sleep_time_for_check: 3
+login: 'zxcvb88'
+password: '17476022e4'
+title_post: 'Hellow, world!'
+description_post: 'Description new post'
+content_post: 'Content new post'
